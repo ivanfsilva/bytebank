@@ -4,7 +4,7 @@ Vamos utilizar uma biblioteca npm chamada JSON server para criar uma API rest fa
 
 ## Instalação
 
-Caso ainda não tenha na sua máquina, pelo prompt de comando, execute `npm install -g json-server`
+Caso ainda não tenha na sua máquina, pelo prompt de comando, execute ```npm install -g json-server```
 
 ## Criar o arquivo JSON
 
@@ -37,11 +37,11 @@ Para simular uma APi Rest, crie um arquivo chamado `db.json` na pasta do backend
 
 ## Iniciar o servidor JSON
 
-execute o comando `json-server --watch db.json`
+execute o comando ```json-server --watch db.json```
 
 ## Acessar a API
 
-Para verificar a API fake funcionando, abra seu browser e digite a URL: `http://localhost:3000/transferencias`
+Para verificar a API fake funcionando, abra seu browser e digite a URL: ```http://localhost:3000/transferencias```
 
 
 
