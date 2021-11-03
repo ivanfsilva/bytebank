@@ -5,8 +5,13 @@
 ![](https://img.shields.io/github/stars/ivanfsilva/bytebank)
 ![](https://img.shields.io/github/license/ivanfsilva/bytebank)
 
-Uma simples aplicação de um Banco Digital para estudar o Angular.
+Aplicativo muito simples para estudar Angular. Desenvolvendo um banco digital ByteBank, com o registro de uma nova transferência e a exibição dessas transferências já registradas
 
+O App possui duas funcionalidades dentro do banco digital ByteBank, que é o cadastro de uma nova transferência e a exibição dessas transferências já cadastradas.
+
+Foram Construídas três páginas, extrato e transferências e nova transferência.
+
+Duas páginas são navegáveis entre si, se clico em "ByteBank" eu vou para a página de extrato, se clico em "nova transferência" ele vai para a página de nova transferência.
 <h4 align="center"> 
 	🚧  ByteBank - Em construção...  🚧
 </h4>
