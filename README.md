@@ -13,6 +13,8 @@
 
 👉 [Como baixar o projeto](#-como-baixar-o-projeto)
 
+👉 [Histórico de Lançamentos](#-historico-de-lançamentos)
+
 ## 🔖&nbsp; Sobre o App
 
 Aplicativo para estudar Angular. 
@@ -85,3 +87,13 @@ O que foi utilizado na construção do projeto:
 
 * 1.0.0
     * PROJETO INICIAL: API Fake Json Server
+
+
+
+## Autor
+
+
+Feito com ❤️ por Ivan Silva 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-IvanSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanfsilva/)](https://www.linkedin.com/in/ivanfsilva/) 
+
