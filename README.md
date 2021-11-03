@@ -13,7 +13,7 @@
 
 👉 [Como baixar o projeto](#-como-baixar-o-projeto)
 
-👉 [Histórico de Lançamentos](#-histórico-de-lançamentos)
+👉 [Histórico de Lançamentos](#histórico-de-lançamentos)
 
 ## 🔖&nbsp; Sobre o App
 
