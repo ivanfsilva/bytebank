@@ -5,11 +5,23 @@
 ![](https://img.shields.io/github/stars/ivanfsilva/bytebank)
 ![](https://img.shields.io/github/license/ivanfsilva/bytebank)
 
-Aplicativo muito simples para estudar Angular. Desenvolvendo um banco digital ByteBank, com o registro de uma nova transferência e a exibição dessas transferências já registradas
+## Indice
+
+👉 [Sobre](#-sobre)
+
+👉 [Tecnologias Utilizadas](#-tecnologias)
+
+👉 [Como baixar o projeto](#-como-baixar-o-projeto)
+
+## 🔖&nbsp; Sobre o App
+
+Aplicativo para estudar Angular. 
+
+Desenvolvendo um banco digital ByteBank, com o registro de uma nova transferência e a exibição dessas transferências já registradas
 
 O App possui duas funcionalidades dentro do banco digital ByteBank, que é o cadastro de uma nova transferência e a exibição dessas transferências já cadastradas.
 
-Foram Construídas três páginas, extrato e transferências e nova transferência.
+Foram Construídas três páginas: extrato, transferências e nova transferência.
 
 Duas páginas são navegáveis entre si, se clico em "ByteBank" eu vou para a página de extrato, se clico em "nova transferência" ele vai para a página de nova transferência.
 <h4 align="center"> 
@@ -18,7 +30,7 @@ Duas páginas são navegáveis entre si, se clico em "ByteBank" eu vou para a p�
 
 ## 🛠 Tecnologias
 
-Ferramentas utilizadas na construção do projeto:
+O que foi utilizado na construção do projeto:
 
 <h3>
 
@@ -41,6 +53,33 @@ Ferramentas utilizadas na construção do projeto:
 
 
 </h3>
+
+
+## 🗂 Como baixar o projeto
+
+#### Clonar o repositório
+
+```bash
+    $ git clone https://github.com/ivanfsilva/bytebank
+```
+
+#### Entrar no diretório
+```bash
+    $ cd bytebank/frontend
+```
+
+#### Instalar as dependências
+
+```bash
+    $ npm install
+```
+
+#### Iniciar o projeto
+
+```bash
+    $ ng s -o
+```
+
 
 ## Histórico de lançamentos
 
