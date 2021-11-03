@@ -7,7 +7,7 @@
 
 ## Indice
 
-👉 [Sobre](#-sobre)
+👉 [Sobre](#-sobre-o-app)
 
 👉 [Tecnologias Utilizadas](#-tecnologias)
 
