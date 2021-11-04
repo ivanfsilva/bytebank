@@ -82,18 +82,19 @@ O que foi utilizado na construção do projeto:
     $ ng s -o
 ```
 
-
 ## Histórico de lançamentos
 
 * 1.0.0
-    * PROJETO INICIAL: API Fake Json Server
-
+    * PROJETO INICIAL: 
+      * API Fake Json Server
+      * Tela de extrato
+      * Tela de cadastro de transferências
+      * Router
 
 
 ## Autor
 
-
-Feito com ❤️ por Ivan Silva 👋🏽 Entre em contato!
+Desnvolvido por Ivan Silva 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanfsilva/)](https://www.linkedin.com/in/ivanfsilva/) 
 
