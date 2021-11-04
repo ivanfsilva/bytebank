@@ -5,6 +5,9 @@
 ![](https://img.shields.io/github/stars/ivanfsilva/bytebank)
 ![](https://img.shields.io/github/license/ivanfsilva/bytebank)
 
+
+![](https://img.shields.io/badge/STATUS-CONCLUIDO-green)
+
 ## Indice
 
 👉 [Sobre](#-sobre-o-app)
@@ -26,8 +29,10 @@ O App possui duas funcionalidades dentro do banco digital ByteBank, que é o cad
 Foram Construídas três páginas: extrato, transferências e nova transferência.
 
 Duas páginas são navegáveis entre si, se clico em "ByteBank" eu vou para a página de extrato, se clico em "nova transferência" ele vai para a página de nova transferência.
+
+
 <h4 align="center"> 
-	🚧  ByteBank - Em construção...  🚧
+	🚧  ByteBank - Release 2.0 em desenvolvimento...  🚧
 </h4>
 
 ## 🛠 Tecnologias
@@ -84,17 +89,15 @@ O que foi utilizado na construção do projeto:
 
 ## Histórico de lançamentos
 
-* 1.0.0
-    * PROJETO INICIAL: 
-      * API Fake Json Server
-      * Tela de extrato
-      * Tela de cadastro de transferências
-      * Router
-
-
+* 1.0.0 - PROJETO INICIAL:
+  * API Fake Json Server
+  * Tela de extrato
+  * Tela de cadastro de transferências
+  * Router
+  
 ## Autor
 
-Desnvolvido por Ivan Silva 👋🏽 Entre em contato!
+Desenvolvido por Ivan Silva 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-IvanSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanfsilva/)](https://www.linkedin.com/in/ivanfsilva/) 
 
